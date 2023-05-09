@@ -9,7 +9,8 @@ My name is Luiz Gustavo Erthal and I'm a Data Engineer.
 
 ## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/>
-               
+
+## Github Stats
 <div>
 <a href="https://github.com/LGErthal">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgerthal&layout=compact&langs_count=7&theme=dracula"/>
